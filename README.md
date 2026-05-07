@@ -4,7 +4,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Engineering Student from Tamil Nadu
+- 🎓 BCA Student from Tamil Nadu
 - 💻 Passionate about Software Development and AI
 - 🌱 Currently learning:
   - Data Structures & Algorithms
@@ -48,7 +48,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/notion--v1.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
 
 ---
