@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-chandru-t31?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrchandrut-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=dark)](https://github.com/mrchandrut-coder)
 
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 
@@ -60,7 +60,7 @@
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrchandrut-coder&theme=one-dark-pro)](https://git.io/streak-stats)
 
 ---
 
