@@ -37,11 +37,11 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
 <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" height="50"/>
 
 ---
 
