@@ -9,8 +9,10 @@
 - 🌱 Currently learning:
   - Data Structures & Algorithms
   - Web Development
+  - CI/CD
+  - DOCKER 
   - Git & GitHub
-  - AI and LLM Basics
+  - AI and LLMs Basics
 - 🔭 Building projects to improve my coding skills
 - ⚡ Fun fact: I enjoy learning technology through practical projects
 
@@ -39,6 +41,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="50" height="50"/>
 
 ---
 
