@@ -30,7 +30,7 @@
 
 # 💻 Languages and Technologies
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
@@ -47,7 +47,8 @@
 
 # 🛠 IDE & Tools
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://cdn.simpleicons.org/github/f0f6fc" alt="GitHub" width="50" height="50"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
 
