@@ -4,7 +4,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 BCA Student from Tamil Nadu
+- 🎓 BCA Student from Chennai 
 - 💻 Passionate about Software Development and AI
 - 🌱 Currently learning:
   - Data Structures & Algorithms
