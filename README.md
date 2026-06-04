@@ -14,7 +14,7 @@
   - Git & GitHub
   - AI and LLMs Basics
 - 🔭 Building projects to improve my coding skills
-- ⚡ Fun fact: I enjoy learning technology through practical projects
+- ⚡ Fun fact: I enjoy learning technology through practical projects.
 
 ---
 
