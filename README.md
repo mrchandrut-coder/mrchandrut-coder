@@ -1,4 +1,4 @@
-# Hi there 👋 It's me Chandru
+# Hi there 👋 It's me Chandru.
 
 ### Aspiring Software Developer 🚀
 
