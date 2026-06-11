@@ -51,10 +51,6 @@
 <img src="https://cdn.simpleicons.org/github/f0f6fc" alt="GitHub" width="50" height="50"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height ="50"width="50" alt="GitHub">
-</picture>
 
 ---
 
