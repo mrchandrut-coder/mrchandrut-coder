@@ -28,7 +28,7 @@
 
 ---
 
-# 💻 Languages and Technologies
+# 🏗️ Languages & Technologies
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
