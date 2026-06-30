@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=T%20Chandru&fontSize=55&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=twinkling"/>
+
 # Hi there 👋 It's me Chandru
 
 ### Aspiring Software Developer 🚀
@@ -87,4 +89,4 @@
 - ✅ Crack software developer interviews
 
 ---
-⭐ Thanks for visiting my profile! 🙌  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You!&fontSize=55&fontAlign=50&fontAlignY=35&desc=Thanks%20for%20visiting%20my%20GitHub%20profile!&descAlign=50&descAlignY=55&animation=twinkling"/>
