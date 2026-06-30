@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=T%20Chandru&fontSize=55&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=%20Chandru&fontSize=55&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=55&animation=twinkling"/>
 
 # Hi there 👋 It's me Chandru
 
