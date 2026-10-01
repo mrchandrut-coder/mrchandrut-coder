@@ -78,8 +78,14 @@
 
 ---
 
-## 📊 Contribution Graph 
-<img src="./Graph Contribution.gif" width="600">
+## 📊 GitHub stats
+<p align="left">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrchandrut-coder&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrut-coder&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
