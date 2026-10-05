@@ -94,6 +94,17 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Tchandru?ext=contest&theme=dark)](https://leetcode.com/Tchandru)
 
 ---
+
+# 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=mrchandrut-coder&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
 # 🚀 Goals for 2026
 
 - ✅ Improve problem solving skills
