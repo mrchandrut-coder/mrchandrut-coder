@@ -12,7 +12,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 BCA Student from Tamilnadu 
+- 🎓 BCA Student from Alpha arts and science college
 - 💻 Passionate about Software Development and AI
 - 🌱 Currently learning:
   - Data Structures & Algorithms
