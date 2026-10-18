@@ -24,6 +24,13 @@
 - 🔭 Building projects to improve my coding skills
 - ⚡ Fun fact: I enjoy learning technology through practical projects.
 
+### 🌐 Portfolio
+
+Check out my projects, skills, certifications, and experience.
+
+🔗 **[Visit My Portfolio](https://mrchandrut-coder.github.io/Personal-portfolio/)**
+
+
 ---
 ## 🥇 Coding Profiles
 
