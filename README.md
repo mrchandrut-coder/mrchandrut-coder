@@ -15,7 +15,7 @@
 - 🎓 BCA Student from Alpha arts and science college
 - 💻 Passionate about Software Development and AI
 - 🌱 Currently learning:
-  - Data Structures
+  - Data Structures & Algorithms
   - Web Development
   - CI/CD
   - DOCKER 
